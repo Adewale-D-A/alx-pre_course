@@ -1,1 +1,3 @@
-Updated readme file
+# ALX Software Engineering Introduction to GIT commands
+
+## This repository contains basic git commands
